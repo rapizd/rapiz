@@ -33,5 +33,22 @@ $ python -m rapiz new hello
 </details>
 </table>
 
+You should see some files being generated:
 
+<table>
+    <thead>
+        <tr>
+            <th colspan="2"><sub>FILE TREE</sub></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img width="30" src="https://skillicons.dev/icons?i=py" /></td>
+            <td>main.py</td>
+        </tr>
+        <tr>
+            <td colspan="2">📁 pages/</td>
+        </tr>
+    </tbody>
+</table>
 
